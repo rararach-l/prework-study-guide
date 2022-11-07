@@ -16,7 +16,7 @@ Suggestions for what to study next can be found in Chrome DevTools – press Com
 
 ## Credits
 
-This webpage was made by following the Prework modules in the sdX and Department for Education, Skills for Life Front End Development Bootcamp, delivered by Trilogy Education Services.
+This webpage was made by following the Prework modules in the edX and Department for Education, Skills for Life Front End Development Bootcamp, delivered by Trilogy Education Services.
 
 ## License
 
